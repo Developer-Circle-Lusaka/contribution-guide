@@ -43,7 +43,9 @@ We are considering libraries that are widely used by most people.
 
 ### Back-End  
 
-... this will be updated
+ - Nodejs
+ 
+ We will use Nodejs for the backend, if need arise to include other services or libraries, this section will be updated.  
 
 ### Contributing 
 
